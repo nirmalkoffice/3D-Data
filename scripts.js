@@ -28,14 +28,14 @@ scene.add(backLight);
 var mtlLoader = new THREE.MTLLoader();
 mtlLoader.setTexturePath('./assets/');
 mtlLoader.setPath('./assets/');
-mtlLoader.load('r2-d2.mtl', function (materials) {
+mtlLoader.load('Phone_Ul.mtl', function (materials) {
 
     materials.preload();
 
     var objLoader = new THREE.OBJLoader();
     objLoader.setMaterials(materials);
     objLoader.setPath('./assets/');
-    objLoader.load('r2-d2.obj', function (object) {
+    objLoader.load('Phone_UI.obj', function (object) {
 
         scene.add(object);
         object.position.y -= 60;

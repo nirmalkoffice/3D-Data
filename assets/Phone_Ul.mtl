@@ -1,0 +1,81 @@
+newmtl Display Material_57abd4b9-63f9-4e36-b59d-22c0c1469fc5
+Kd 0.000 0.000 0.000
+d 1.000
+newmtl Display Outline 1 Material_a96583d2-bc31-43cc-ad26-93065850737b
+Kd 0.000 0.000 0.000
+d 1.000
+newmtl Display Outline 2 Material_562a3f50-d79b-48fb-b2bc-a90ca181c03c
+Kd 0.149 0.149 0.149
+d 1.000
+newmtl Metal Material_c31e2049-062b-4093-8e46-58aef5d93ebd
+Kd 0.522 0.522 0.522
+d 1.000
+newmtl Antenas Material_d40a6944-88f1-4f7b-83c2-374edddce446
+Kd 0.310 0.310 0.310
+d 1.000
+newmtl Rear Glass Material_1cfb6192-501f-46e5-9dca-9f1428aa12c5
+Kd 0.212 0.212 0.212
+d 1.000
+newmtl Mute Switch Color Material_0a3e0276-931a-4b36-bf67-e855096987d1
+Kd 1.000 0.435 0.000
+d 1.000
+newmtl Camera Base Material_b755d5e8-6f2c-478f-863c-0a37aefa3e02
+Kd 0.212 0.212 0.212
+d 1.000
+newmtl Camera Rings Material_32e18406-f060-409d-8012-6cbea449f215
+Kd 0.439 0.439 0.439
+d 1.000
+newmtl Lens Glass Material_e4e0b425-d0ca-439e-9ae1-8dbcf2cb856d
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd colorTexture&opacityTexture.png
+newmtl Lens Shade Material_177ad2a0-b3ef-4de5-a458-a905707c2fe6
+Kd 0.000 0.000 0.000
+d 1.000
+newmtl Lens 1 Material_9106f942-50d7-4c64-b05f-31f2bf92dacd
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Lens1_3.jpg
+newmtl Lens 2 Material_ccb84781-c963-4c31-b349-e920c5f72f52
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Lens2_3.jpg
+newmtl Lens 3 Material_9dd1f597-70f3-4c71-8a77-a18b26d350d5
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Lens3_3.jpg
+newmtl Grid Material_6f1343f4-bdfe-4f69-83a5-53e1f2bb893f
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Grid_2.jpg
+newmtl Flash Material_06cc6045-f8be-4e74-bff4-c5a8d1c5c6c0
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd led_light_4.jpg
+newmtl Playlist Background Material_77384b0f-d7be-42bd-9274-0f06506bd870
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Playlist_Cover.jpg
+newmtl White Emissive_c1087e28-68cc-4b8f-914b-ed5fce7de77e
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Gradient Material_690e9d51-574c-47b4-88ae-5ffcbbcb943c
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Gradient.jpg
+newmtl Material 3_24b39583-bbf1-455a-a237-eb0dfa3b6084
+Kd 0.000 0.000 0.000
+d 1.000
+newmtl Album Cover Material_98990d70-3873-4175-885a-cbe057c397d3
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Album_Cover.jpg
+newmtl Material 137_722e124d-ef7e-4301-b41c-ab362bfcf6e0
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Material 2_9e9192d8-8754-486c-a608-10d63897fad0
+Kd 0.420 0.376 0.686
+d 1.000
+newmtl Material 1_66388dc9-db20-4952-b175-26bd4b61e324
+Kd 0.639 0.639 0.639
+d 1.000
